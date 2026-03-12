@@ -1,0 +1,22 @@
+{
+  "total_transactions": 284807,
+  "fraud_count": 492,
+  "legitimate_count": 284315,
+  "fraud_rate_pct": 0.1727,
+  "avg_fraud_amount": 122.21,
+  "avg_legit_amount": 88.29,
+  "top_positive_features": [
+    "V19",
+    "V21",
+    "V2",
+    "V4",
+    "V11"
+  ],
+  "top_negative_features": [
+    "V17",
+    "V14",
+    "V12",
+    "V10",
+    "V16"
+  ]
+}
